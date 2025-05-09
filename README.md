@@ -1,20 +1,40 @@
-```markdown
-# [Sarbjit Bhangu]
-## QA Testing Professional
-Welcome to my GitHub profile! I specialize in quality assurance testing with a focus on web application testing, test automation, and quality processes.
-### 👨‍💻 About Me
-I'm a detail-oriented QA tester passionate about finding bugs and improving software quality. With a keen eye for inconsistencies and an analytical approach to problem-solving, I ensure applications meet the highest quality standards before reaching users.
-### 🔍 QA Skills
+# Hi there! 👋 I'm Sarbjit Bhangu
 
-- Manual Testing
-- Test Case Design
-- Bug Reporting
-- Test Documentation
-- Regression Testing
-- User Acceptance Testing
-- Basic Automation Concepts
+Welcome to my GitHub profile! I'm a passionate software developer with a focus on building high-quality, efficient, and scalable web applications. I recently completed a bootcamp and am excited to showcase my growing portfolio of projects.
 
-### 📚 Portfolio Projects
+## 💻 Technologies & Tools
 
-- [Manual Testing Mini-Portfolio: Slack Website]() - A demonstration of manual testing skills applied to Slack's website
-- More projects coming soon!
+* **Languages:** JavaScript, Node.js
+* **Frameworks:** Express.js
+* **Databases:** MongoDB, Mongoose
+* **Tools:** Git, GitHub, Postman
+* **Platforms:** Windows, PowerShell
+
+## 📂 Featured Projects
+
+### Task Tracker API
+
+A full-featured REST API built with Node.js, Express, and MongoDB for managing tasks. This project demonstrates my backend development skills, including CRUD operations and database integration.
+
+* [GitHub Repository](https://github.com/Sarbjit513/task-tracker-api)
+* Technologies: Node.js, Express.js, MongoDB, Mongoose, Postman
+
+### Slack Website Manual Testing Portfolio
+
+A comprehensive manual testing portfolio for Slack's website, including detailed test cases, bug reports, and summaries.
+
+* [GitHub Repository](https://github.com/Sarbjit513/manual-testing-portfolio)
+
+## 🌱 Currently Learning
+
+* Advanced API design patterns
+* Test automation and CI/CD pipelines
+* Frontend development with React.js
+
+## 🤝 Let's Connect
+
+* **GitHub:** [Sarbjit513](https://github.com/Sarbjit513)
+* **Email:** Bhangu513@gmail.com
+
+Thanks for visiting! 🚀
+
